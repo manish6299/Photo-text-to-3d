@@ -42,19 +42,19 @@ This project was designed as a prototype to bridge simple 2D inputs and 3D outpu
 
 ## 🗂️ Project Structure
 
-✅ Step 2: Create Virtual Environment
-python -m venv venv
-venv\Scripts\activate        # On Windows
-# or
-source venv/bin/activate     # On Mac/Linux
+## ✅ Step 2: Create Virtual Environment
+## python -m venv venv
+### venv\Scripts\activate        # On Windows
+### # or
+### source venv/bin/activate     # On Mac/Linux
 
-✅ Step 3: Install Dependencies
-pip install -r requirements.txt
+## ✅ Step 3: Install Dependencies
+## pip install -r requirements.txt
 pip install onnxruntime
 
-✅ Step 4: Run the Application
-python main.py --image assets/toy_car.jpg
-python main.py --text "a small red toy car"
+## ✅ Step 4: Run the Application
+### python main.py --image assets/toy_car.jpg
+### python main.py --text "a small red toy car"
 
 
 
